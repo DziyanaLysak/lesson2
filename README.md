@@ -1,2 +1,1 @@
-# lesson2
-homework
+# Welcome Git
